@@ -1,7 +1,7 @@
 # AsteroidsGame
 A remake of the classic Asteroids game.
 
-#CONTROLLS:
+#CONTROLS:
 1. Right\Left Arrow Key - rotate ship
 2. Up Arrow Key - accelerate ship
 3. Space - shoot
