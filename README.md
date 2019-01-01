@@ -1,10 +1,16 @@
 # AsteroidsGame
 A remake of the classic Asteroids game.
 
-# CONTROLS:
+# CONTROLS (Keyboard):
 * Right\Left Arrow Key - rotate ship
 * Up Arrow Key - accelerate ship
 * Space - shoot
+
+# CONTROLS (Controller XBOX or PS3):
+* Left Stick - rotate ship
+* Left Stick/D-pad Up and Down - menu scroll
+* Right Bumper/R1 - Shoot
+* Left Bumper/L1 - accelerate ship
 
 # POWER UPs LEGEND:
 * Green Square- Invincibility
